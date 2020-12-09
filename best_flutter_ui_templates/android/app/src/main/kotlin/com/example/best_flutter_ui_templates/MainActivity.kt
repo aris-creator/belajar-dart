@@ -1,4 +1,4 @@
-package com.example.best_flutter_ui_templates
+package com.example.belajat_flutter_ui
 
 import io.flutter.embedding.android.FlutterActivity
 
