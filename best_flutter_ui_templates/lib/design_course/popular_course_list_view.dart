@@ -1,6 +1,6 @@
-import 'package:best_flutter_ui_templates/design_course/design_course_app_theme.dart';
-import 'package:best_flutter_ui_templates/design_course/models/category.dart';
-import 'package:best_flutter_ui_templates/main.dart';
+import 'package:belajar_flutter_ui/design_course/design_course_app_theme.dart';
+import 'package:belajar_flutter_ui/design_course/models/category.dart';
+import 'package:belajar_flutter_ui/main.dart';
 import 'package:flutter/material.dart';
 
 class PopularCourseListView extends StatefulWidget {
