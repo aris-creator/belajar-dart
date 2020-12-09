@@ -1,6 +1,6 @@
-import 'package:best_flutter_ui_templates/fitness_app/ui_view/wave_view.dart';
-import 'package:best_flutter_ui_templates/fitness_app/fintness_app_theme.dart';
-import 'package:best_flutter_ui_templates/main.dart';
+import 'package:belajar_flutter_ui/fitness_app/ui_view/wave_view.dart';
+import 'package:belajar_flutter_ui/fitness_app/fintness_app_theme.dart';
+import 'package:belajar_flutter_ui/main.dart';
 import 'package:flutter/material.dart';
 
 class WaterView extends StatefulWidget {
